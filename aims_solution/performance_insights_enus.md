@@ -67,16 +67,7 @@ The table provides various storage arrangement options, detailing how different 
 
 The following tables provide a comprehensive performance benchmark for single GPU configurations used in Face Analysis and Person & Vehicle Analysis. The tables present key metrics including deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPUs. These benchmarks highlight the performance capabilities of different GPU models across various deployment scenarios such as edge devices, workstations, and data centers. The data demonstrates how each GPU configuration handles high-resolution video streams and complex AI processing tasks, providing critical insights for optimizing AI-driven video analysis systems.
 
-### Face Analysis on Single GPU
-
-| Single GPU         | Deployment   | AI Channel | Analyze FPS | NVDEC | Memory | CUDA Cores | Tensor Cores |
-|--------------------|--------------|------------|-------------|-------|--------|------------|--------------|
-| 1 x NVIDIA RTX 3060| Edge Device  | 18         | 270         | 1     | 12 GB  | 3,584      | 112          |
-| 1 x NVIDIA A5000   | Workstation  | 36         | 540         | 2     | 24 GB  | 8,192      | 256          |
-| 1 x NVIDIA A30     | Data Center  | 40         | 600         | 4     | 24 GB  | 3,584      | 224          |
-| 1 x NVIDIA A100    | Data Center  | 60         | 900         | 5     | 40 GB  | 6,912      | 432          |
-
-### Person & Vehicle Analysis on Single GPU
+### Performance Benchmark
 
 | Single GPU         | Deployment   | AI Channel | Analyze FPS | NVDEC | Memory | CUDA Cores | Tensor Cores |
 |--------------------|--------------|------------|-------------|-------|--------|------------|--------------|
@@ -121,16 +112,7 @@ A comprehensive Person & Vehicle AI Analysis provides the following functionalit
 
 The following tables provide a detailed performance benchmark for dual GPU setups used in Face Analysis and Person & Vehicle Analysis. Each table highlights the deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPU configurations. The data illustrates the significant performance improvements achieved with dual GPU configurations across different deployment scenarios such as edge devices, workstations, and data centers. These benchmarks are critical for understanding the capabilities of AI-driven video analysis systems in processing and analyzing high-resolution video streams efficiently.
 
-### Face Analysis on Dual GPU
-
-| Dual GPU           | Deployment   | AI Channel | Analyze FPS | NVDEC   | Memory        | CUDA Cores       | Tensor Cores    |
-|--------------------|--------------|------------|-------------|---------|---------------|------------------|-----------------|
-| 2 x NVIDIA RTX 3060| Edge Device  | 36         | 540         | 2 x 1   | 2 x 12 GB     | 2 x 3,584        | 2 x 112         |
-| 2 x NVIDIA A5000   | Workstation  | 72         | 1,080       | 2 x 2   | 2 x 24 GB     | 2 x 8,192        | 2 x 256         |
-| 2 x NVIDIA A30     | Data Center  | 80         | 1,200       | 2 x 4   | 2 x 24 GB     | 2 x 3,584        | 2 x 224         |
-| 2 x NVIDIA A100    | Data Center  | 128        | 1,920       | 2 x 5   | 2 x 40 GB     | 2 x 6,912        | 2 x 432         |
-
-### Person & Vehicle Analysis on Dual GPU
+### Performance Benchmark
 
 | Dual GPU           | Deployment   | AI Channel | Analyze FPS | NVDEC   | Memory        | CUDA Cores       | Tensor Cores    |
 |--------------------|--------------|------------|-------------|---------|---------------|------------------|-----------------|
