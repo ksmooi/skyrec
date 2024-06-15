@@ -3,7 +3,7 @@
 ## 前言
 在現代科技快速發展的背景下，影像分析技術已成為各種應用場景中的關鍵工具。無論是在人臉識別、人物穿著識別、車輛偵測，還是夜間影像分析等方面，高精準度的影像分析技術都展示出其不可或缺的價值。本文將通過八個精選視頻，介紹AIMS在影像分析中的卓越精準度，展示其在不同場景和條件下的應用與挑戰。
 
-## 高精準度的戶外物件偵測
+## 戶外物件偵測 (Object Detection)
 
 [![高精準度的戶外物件偵測](https://img.youtube.com/vi/v5wEM_DDUsU/0.jpg)](https://www.youtube.com/watch?v=v5wEM_DDUsU)
 
@@ -46,7 +46,7 @@
 這些條件下的影像分析需要應對各種環境變化和光線條件，以確保準確度和穩定性。AiMS 透過特殊的影像前處理方法，使深度學習有效偵測物件。
 
 
-## 高精準度的人臉偵測與識別
+## 人臉偵測與識別 (Facial Analysis)
 
 [![高精準度的人臉偵測與識別](https://img.youtube.com/vi/EKvrdf2Nc8k/0.jpg)](https://www.youtube.com/watch?v=EKvrdf2Nc8k)
 
@@ -76,7 +76,7 @@
 AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已考慮到這些挑戰，因此我們的精準度相當高且穩定。
 
 
-## 高精準度的人物穿著識別
+## 人物穿著識別 (Clothing Analysis)
 
 [![高精準度的人物穿著識別](https://img.youtube.com/vi/gaAcQh8LOmo/0.jpg)](https://www.youtube.com/watch?v=gaAcQh8LOmo)
 
@@ -121,11 +121,11 @@ AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已
 - **街道 / 夏季 (Street / Summer)**: 穿著多樣性和強光。
 
 
-## 高精準度的車輛偵測
+## 車輛偵測 (Vehicle Analysis)
 
 [![高精準度的車輛偵測](https://img.youtube.com/vi/2Vd54eo3Hzs/0.jpg)](https://www.youtube.com/watch?v=2Vd54eo3Hzs)
 
-### 高精準度的車輛偵測的應用
+### 車輛偵測的應用
 
 **偵測 (Detection)**
 - 低角度 / 白天
@@ -163,7 +163,7 @@ AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已
 - 車輛高速移動會增加偵測和識別的難度。
 
 
-## 高精準度的夜間影像分析
+## 夜間影像分析 (Night Vision Image Processing)
 
 [![高精準度的夜間影像分析](https://img.youtube.com/vi/SUcBZvLTtog/0.jpg)](https://www.youtube.com/watch?v=SUcBZvLTtog)
 
@@ -202,7 +202,7 @@ AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已
 - 多樣化穿著和物體類型增加了分類的難度
 
 
-## 高精準度的車輛識別
+## 車輛識別 (Vehicle Recognition)
 
 [![高精準度的車輛識別](https://img.youtube.com/vi/6UAjNELRPwY/0.jpg)](https://www.youtube.com/watch?v=6UAjNELRPwY)
 
@@ -234,7 +234,7 @@ AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已
 - 動態環境中的高速移動物體
 
 
-## 高精準度的人臉識別
+## 人臉識別 (Face Recognition)
 
 [![高精準度的人臉識別](https://img.youtube.com/vi/HO9UTJJ9K84/0.jpg)](https://www.youtube.com/watch?v=HO9UTJJ9K84)
 
@@ -255,7 +255,7 @@ AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已
 - 多人場景下的準確識別
 
 
-## 高精準度的人物識別
+## 人物識別 (Clothing Recognition)
 
 [![高精準度的人物識別](https://img.youtube.com/vi/ldQYnIKDDNw/0.jpg)](https://www.youtube.com/watch?v=ldQYnIKDDNw)
 
