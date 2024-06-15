@@ -61,6 +61,27 @@ The table provides various storage arrangement options, detailing how different 
 **Notes**
 - 24 cameras recording with 6 HDDs on SATA ports
 
+
+## Performance Benchmark on Dual GPU
+
+[![Performance Benchmark on Dual GPU](https://img.youtube.com/vi/sjCYWvHJ65c/0.jpg)](https://www.youtube.com/watch?v=sjCYWvHJ65c)
+
+The following tables provide a detailed performance benchmark for dual GPU setups used in Face Analysis and Person & Vehicle Analysis. Each table highlights the deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPU configurations. The data illustrates the significant performance improvements achieved with dual GPU configurations across different deployment scenarios such as edge devices, workstations, and data centers. These benchmarks are critical for understanding the capabilities of AI-driven video analysis systems in processing and analyzing high-resolution video streams efficiently.
+
+### Performance Benchmark
+
+| Dual GPU           | Deployment   | AI Channel | Analyze FPS | NVDEC   | Memory        | CUDA Cores       | Tensor Cores    |
+|--------------------|--------------|------------|-------------|---------|---------------|------------------|-----------------|
+| 2 x NVIDIA RTX 3060| Edge Device  | 36         | 540         | 2 x 1   | 2 x 12 GB     | 2 x 3,584        | 2 x 112         |
+| 2 x NVIDIA A5000   | Workstation  | 72         | 1,080       | 2 x 2   | 2 x 24 GB     | 2 x 8,192        | 2 x 256         |
+| 2 x NVIDIA A30     | Data Center  | 80         | 1,200       | 2 x 4   | 2 x 24 GB     | 2 x 3,584        | 2 x 224         |
+| 2 x NVIDIA A100    | Data Center  | 128        | 1,920       | 2 x 5   | 2 x 40 GB     | 2 x 6,912        | 2 x 432         |
+
+**Notes**
+- HEVC video streaming (1920 x 1080, 15 FPS, 2 Mbps)
+- H.264 video streaming (1920 x 1080, 15 FPS, 2 Mbps)
+
+
 ## Performance Benchmark on Single GPU
 
 [![Performance Benchmark on Single GPU](https://img.youtube.com/vi/J13jzoFAXto/0.jpg)](https://www.youtube.com/watch?v=J13jzoFAXto)
@@ -105,23 +126,4 @@ A comprehensive Person & Vehicle AI Analysis provides the following functionalit
 - Vehicle Category Classification
 - Vehicle Color Classification
 - Vehicle Recognition
-
-## Performance Benchmark on Dual GPU
-
-[![Performance Benchmark on Dual GPU](https://img.youtube.com/vi/sjCYWvHJ65c/0.jpg)](https://www.youtube.com/watch?v=sjCYWvHJ65c)
-
-The following tables provide a detailed performance benchmark for dual GPU setups used in Face Analysis and Person & Vehicle Analysis. Each table highlights the deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPU configurations. The data illustrates the significant performance improvements achieved with dual GPU configurations across different deployment scenarios such as edge devices, workstations, and data centers. These benchmarks are critical for understanding the capabilities of AI-driven video analysis systems in processing and analyzing high-resolution video streams efficiently.
-
-### Performance Benchmark
-
-| Dual GPU           | Deployment   | AI Channel | Analyze FPS | NVDEC   | Memory        | CUDA Cores       | Tensor Cores    |
-|--------------------|--------------|------------|-------------|---------|---------------|------------------|-----------------|
-| 2 x NVIDIA RTX 3060| Edge Device  | 36         | 540         | 2 x 1   | 2 x 12 GB     | 2 x 3,584        | 2 x 112         |
-| 2 x NVIDIA A5000   | Workstation  | 72         | 1,080       | 2 x 2   | 2 x 24 GB     | 2 x 8,192        | 2 x 256         |
-| 2 x NVIDIA A30     | Data Center  | 80         | 1,200       | 2 x 4   | 2 x 24 GB     | 2 x 3,584        | 2 x 224         |
-| 2 x NVIDIA A100    | Data Center  | 128        | 1,920       | 2 x 5   | 2 x 40 GB     | 2 x 6,912        | 2 x 432         |
-
-**Notes**
-- HEVC video streaming (1920 x 1080, 15 FPS, 2 Mbps)
-- H.264 video streaming (1920 x 1080, 15 FPS, 2 Mbps)
 
