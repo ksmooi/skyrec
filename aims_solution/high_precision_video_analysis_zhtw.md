@@ -163,7 +163,7 @@ AiMS 的人臉偵測與識別功能在設計軟體與深度學習模型時，已
 - 車輛高速移動會增加偵測和識別的難度。
 
 
-## 夜間影像分析 (Night Vision Image Processing)
+## 夜間影像分析 (Night Vision)
 
 [![高精準度的夜間影像分析](https://img.youtube.com/vi/SUcBZvLTtog/0.jpg)](https://www.youtube.com/watch?v=SUcBZvLTtog)
 
