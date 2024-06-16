@@ -135,7 +135,8 @@ This dashboard is used by retail store managers to analyze customer traffic and 
 
 ## 8. Store-Wide Traffic and Customer Analysis
 
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="650">
+<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="500">
+<img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="500">
 
 ### Purpose and Usage
 This dashboard is utilized by retail store managers to analyze overall store traffic and customer demographics. It provides comprehensive insights into storefront and in-store traffic, traffic conversion rates, and the demographic breakdown of visitors. Additionally, it tracks the proportion of new, existing, and sleeping customers. This data aids in optimizing marketing strategies, enhancing customer retention, and improving store layout and services.
@@ -151,25 +152,7 @@ This dashboard is utilized by retail store managers to analyze overall store tra
 | **Target Customers Overview**    | Bar chart showing the traffic and proportion of target customers within the total store traffic, broken down by day and hour. Highlights how well the store attracts its target demographic. |
 
 
-## 9. Comprehensive Store Traffic and Customer Demographics
-
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="650">
-
-### Purpose and Usage
-This dashboard provides a detailed analysis of overall store traffic, customer demographics, and target customer engagement. It helps retail managers understand traffic patterns, conversion rates, and demographic profiles of their customers. This information is crucial for optimizing store layout, tailoring marketing strategies, and improving the overall customer experience.
-
-### Chart Elements
-
-| Element                          | Description                                                                                           |
-|----------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Traffic Overview**             | Summary of key traffic metrics including storefront traffic, in-store traffic, and traffic conversion rate. It highlights overall store performance and customer engagement. |
-| **Gender Traffic**               | Pie chart showing the gender distribution of visitors, with a detailed breakdown of male and female traffic. |
-| **Demographic Traffic**          | Bar chart depicting the age distribution of visitors, highlighting the most represented age groups in the store. |
-| **NES Customer Traffic**         | Pie chart and bar chart showing the distribution of new, existing, and sleeping (inactive) customers, providing insights into customer retention and engagement. |
-| **Target Customers Overview**    | Bar chart showing the total traffic, target traffic, and proportion of target customers, broken down by day and hour. This helps in understanding how well the store attracts its target demographic. |
-
-
-## 10. Loyal Customer Segmentation and Traffic Analysis
+## 9. Loyal Customer Segmentation and Traffic Analysis
 
 <img src="res/retail_bi_crm/retail_bi_crm_loyal_customer.gif" alt="" width="650">
 
@@ -186,7 +169,7 @@ This dashboard is designed for retail store managers to analyze customer segment
 | **Group Scatter Overview**      | Scatter plot showing the relationship between visit frequency (F) and recency (R) for loyal customers, indicating patterns in customer behavior. |
 
 
-## 11. Promising Customer Segmentation and Traffic Analysis
+## 10. Promising Customer Segmentation and Traffic Analysis
 
 <img src="res/retail_bi_crm/retail_bi_crm_promising_customer.gif" alt="" width="650">
 
@@ -203,7 +186,7 @@ This dashboard is designed for retail store managers to analyze customer segment
 | **Group Scatter Overview**      | Scatter plot showing the relationship between visit frequency (F) and recency (R) for promising customers, indicating patterns in customer behavior. |
 
 
-## 12. At-Risk and Lost Customer Segmentation and Traffic Analysis
+## 11. At-Risk and Lost Customer Segmentation and Traffic Analysis
 
 <img src="res/retail_bi_crm/retail_bi_crm_lost_customer.gif" alt="" width="650">
 

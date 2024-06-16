@@ -136,7 +136,8 @@
 
 ## 8. 全店流量和客戶分析
 
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="650">
+<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="500">
+<img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="500">
 
 ### 目的和用途
 這個儀表板供零售店經理使用，以分析整體店鋪流量和客戶人口統計數據。它提供了店面和店內流量、流量轉換率及訪客人口統計細分的全面見解。此外，它還跟踪了新客戶、現有客戶和睡眠客戶的比例。這些數據有助於優化行銷策略、提升客戶保留率及改進店鋪佈局和服務。
@@ -152,25 +153,7 @@
 | **Target Customers Overview**    | 條形圖顯示了總流量、目標流量及目標客戶在總店鋪流量中的比例，按天和小時細分。幫助了解店鋪吸引目標客群的效果。 |
 
 
-## 9. 全面店鋪流量和客戶人口統計
-
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="650">
-
-### 目的和用途
-這個儀表板提供了對整體店鋪流量、客戶人口統計和目標客戶參與的詳細分析。它幫助零售經理了解流量模式、轉換率和客戶的人口統計特徵。這些信息對於優化店鋪佈局、制定行銷策略及提升整體顧客體驗至關重要。
-
-### 圖表元素
-
-| Element                          | Description                                                                                           |
-|----------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Traffic Overview**             | 關鍵流量指標摘要，包括店面流量、店內流量和流量轉換率。突顯店鋪整體表現和客戶參與情況。 |
-| **Gender Traffic**               | 圓餅圖顯示訪客的性別分佈，並詳細說明男性和女性流量的趨勢。 |
-| **Demographic Traffic**          | 條形圖描繪了訪客的年齡分佈，突顯了店鋪中最為顯著的年齡組。 |
-| **NES Customer Traffic**         | 圓餅圖和條形圖顯示了新客戶、現有客戶和睡眠（不活躍）客戶的分佈，提供客戶保留和參與的見解。 |
-| **Target Customers Overview**    | 條形圖顯示了總流量、目標流量及目標客戶在總店鋪流量中的比例，按天和小時細分。幫助了解店鋪吸引目標客群的效果。 |
-
-
-## 10. 忠實客戶細分和流量分析
+## 9. 忠實客戶細分和流量分析
 
 <img src="res/retail_bi_crm/retail_bi_crm_loyal_customer.gif" alt="" width="650">
 
@@ -187,7 +170,7 @@
 | **Group Scatter Overview**      | 散點圖展示了忠實客戶的訪問頻率（F）和回訪率（R）之間的關係，指示客戶行為模式。 |
 
 
-## 11. 有潛力客戶細分和流量分析
+## 10. 有潛力客戶細分和流量分析
 
 <img src="res/retail_bi_crm/retail_bi_crm_promising_customer.gif" alt="" width="650">
 
@@ -206,7 +189,7 @@
 | **Group Scatter Overview**      | 散點圖展示了有潛力客戶的訪問頻率（F）和回訪率（R）之間的關係，指示客戶行為模式。 |
 
 
-## 12. 風險客戶和流失客戶細分和流量分析
+## 11. 風險客戶和流失客戶細分和流量分析
 
 <img src="res/retail_bi_crm/retail_bi_crm_lost_customer.gif" alt="" width="650">
 
