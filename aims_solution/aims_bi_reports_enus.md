@@ -135,8 +135,7 @@ This dashboard is used by retail store managers to analyze customer traffic and 
 
 ## 8. Store-Wide Traffic and Customer Analysis
 
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="450">
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="450">
+<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="450"><img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="450">
 
 ### Purpose and Usage
 This dashboard is utilized by retail store managers to analyze overall store traffic and customer demographics. It provides comprehensive insights into storefront and in-store traffic, traffic conversion rates, and the demographic breakdown of visitors. Additionally, it tracks the proportion of new, existing, and sleeping customers. This data aids in optimizing marketing strategies, enhancing customer retention, and improving store layout and services.

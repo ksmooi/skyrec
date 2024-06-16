@@ -136,8 +136,7 @@
 
 ## 8. 全店流量和客戶分析
 
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="450">
-<img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="450">
+<img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="450"><img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="450">
 
 ### 目的和用途
 這個儀表板供零售店經理使用，以分析整體店鋪流量和客戶人口統計數據。它提供了店面和店內流量、流量轉換率及訪客人口統計細分的全面見解。此外，它還跟踪了新客戶、現有客戶和睡眠客戶的比例。這些數據有助於優化行銷策略、提升客戶保留率及改進店鋪佈局和服務。
