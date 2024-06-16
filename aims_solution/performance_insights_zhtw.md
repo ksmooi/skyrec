@@ -1,3 +1,5 @@
+[ [English](performance_insights_enus.md) ] [ 繁體中文 ]
+
 # 性能見解：影片分析、索引與錄製
 
 ## 介紹

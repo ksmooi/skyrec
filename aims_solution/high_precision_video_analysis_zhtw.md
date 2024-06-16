@@ -1,3 +1,5 @@
+[ [English](high_precision_video_analysis_enus.md) ] [ 繁體中文 ]
+
 # AIMS 影像分析的高精準度探索
 
 ## 簡介

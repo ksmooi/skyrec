@@ -1,3 +1,5 @@
+[ English ] [ [繁體中文](high_precision_video_analysis_zhtw.md) ]
+
 # Exploring High-Precision Image Analysis with AIMS
 
 ## Introduction

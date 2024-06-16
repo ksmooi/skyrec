@@ -1,3 +1,5 @@
+[ English ] [ [繁體中文](performance_insights_zhtw.md) ]
+
 # Performance Insights: Video Analysis, Indexing, and Recording
 
 ## Introduction
