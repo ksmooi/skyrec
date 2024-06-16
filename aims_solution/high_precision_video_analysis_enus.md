@@ -1,7 +1,19 @@
 # Exploring High-Precision Image Analysis with AIMS
 
 ## Introduction
-In the rapidly advancing world of modern technology, image analysis has become a crucial tool across various application scenarios. Whether in facial recognition, clothing identification, vehicle detection, or night-time image analysis, high-precision image analysis techniques have demonstrated their indispensable value. This article introduces the exceptional accuracy of AIMS in image analysis through eight selected videos, showcasing its applications and challenges in different scenarios and conditions.
+
+In the rapidly advancing landscape of modern technology, image analysis has emerged as a crucial tool across various applications. High-precision image analysis technology demonstrates its indispensable value in areas such as facial recognition, clothing identification, vehicle detection, and night vision analysis. This article introduces the exceptional accuracy of AIMS in image analysis through eight carefully selected videos, showcasing its application and challenges in different scenarios and conditions.
+
+The core module of the AIMS system is the AI Flow (pipeline), which primarily provides AI image analysis capabilities. Key features of the AI Flow include:
+
+- Support for flexible AI Flow (pipeline) configurations, allowing adjustments based on specific needs to accomplish various tasks.
+- AI Flow supports over 40 different DL and CV algorithms, catering to a wide range of tasks.
+- User-friendly AI Flow design tools, featuring No-Code functionality, enabling personnel without algorithm knowledge to use the system easily.
+- Comprehensive Object Indexing capabilities that significantly enhance object search performance.
+- Integration of highly automated MLOps processes, allowing models to continuously self-learn and automatically improve in accuracy and stability.
+
+By leveraging these advanced features, AIMS delivers high-precision image analysis, ensuring its effectiveness and reliability in diverse application scenarios.
+
 
 ## Outdoor Object Detection
 
