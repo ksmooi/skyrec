@@ -6,7 +6,7 @@
 Retail store managers need comprehensive and actionable insights to optimize store performance, enhance customer experience, and boost sales. This document presents a series of dashboards that provide a detailed analysis of various aspects of retail operations, including checkout counter performance, transaction and revenue analysis, in-store display efficiency, route traffic, and customer behavior. Additionally, it delves into customer segmentation, focusing on loyal, promising, at-risk, and lost customers. By leveraging these dashboards, managers can make data-driven decisions to improve store layout, target marketing efforts, and retain valuable customers.
 
 
-## Traffic and Conversion Tracking
+## 1. Traffic and Conversion Tracking
 
 <img src="res/retail_bi_dashboard/retail_bi_dashboard.gif" alt="" width="650">
 
@@ -28,7 +28,7 @@ These dashboards are used by retail store managers to monitor and analyze store 
 | **3D Store Layout Visualization** | Offers a visual representation of the store layout, highlighting areas of interest.                             |
 
 
-## Checkout Counter Performance Analysis
+## 2. Checkout Counter Performance Analysis
 
 <img src="res/retail_bi_dashboard/retail_bi_dashboard_checkout.gif" alt="Checkout Counter Performance Analysis" width="650">
 
@@ -45,7 +45,7 @@ This dashboard is used by retail store managers to monitor the performance of ch
 | **Checkout Counter Warning Times** | Heatmap depicting the number of warnings per hour for each checkout counter, providing a detailed view of peak hours for crowding. |
 
 
-## Transaction and Revenue Analysis
+## 3. Transaction and Revenue Analysis
 
 <img src="res/retail_bi_dashboard/retail_bi_dashboard_transaction.gif" alt="Transaction and Revenue Analysis" width="650">
 
@@ -61,7 +61,7 @@ This dashboard is designed for retail store managers to monitor and analyze sale
 | **Revenue**                  | Bar and line chart depicting transaction counts and total revenue over the specified period. Highlights daily and weekly trends in sales performance. |
 
 
-## In-Store Display and Traffic Analysis
+## 4. In-Store Display and Traffic Analysis
 
 <img src="res/retail_bi_scene/retail_bi_scene_shelf_dwell.gif" alt="" width="650">
 
@@ -79,7 +79,7 @@ This dashboard is utilized by retail store managers to analyze the effectiveness
 | **Display Efficiency**       | Bar and line chart illustrating the efficiency of the display in terms of dwell traffic and average dwell time per person, broken down by day and hour. |
 
 
-## Route Traffic and Customer Behavior Analysis
+## 5. Route Traffic and Customer Behavior Analysis
 
 <img src="res/retail_bi_scene/retail_bi_scene_route.gif" alt="" width="650">
 
@@ -96,7 +96,7 @@ This dashboard is designed for retail store managers to analyze customer movemen
 | **Gender Traffic**           | Pie chart and line chart showing the gender distribution of traffic (male and female) and traffic trends over time, highlighting peak times for each gender. |
 
 
-## Window Display Traffic and Efficiency Analysis
+## 6. Window Display Traffic and Efficiency Analysis
 
 <img src="res/retail_bi_scene/retail_bi_scene_storefront.gif" alt="" width="650">
 
@@ -113,7 +113,7 @@ This dashboard is used by retail store managers to analyze the performance and e
 | **Window Display Overview**     | Bar and line chart showing detailed metrics for dwell traffic and average dwell time per person, broken down by day and hour. |
 
 
-## Floor Traffic and Demographic Analysis
+## 7. Floor Traffic and Demographic Analysis
 
 <img src="res/retail_bi_traffic/retail_bi_traffic_floor.gif" alt="" width="650">
 
@@ -133,7 +133,7 @@ This dashboard is used by retail store managers to analyze customer traffic and 
 | **NES Customer Traffic**         | Pie chart and bar chart showing the distribution of new, existing, and sleeping (inactive) customers, providing insights into customer retention and engagement. |
 
 
-## Store-Wide Traffic and Customer Analysis
+## 8. Store-Wide Traffic and Customer Analysis
 
 <img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="650">
 
@@ -151,7 +151,7 @@ This dashboard is utilized by retail store managers to analyze overall store tra
 | **Target Customers Overview**    | Bar chart showing the traffic and proportion of target customers within the total store traffic, broken down by day and hour. Highlights how well the store attracts its target demographic. |
 
 
-## Comprehensive Store Traffic and Customer Demographics
+## 9. Comprehensive Store Traffic and Customer Demographics
 
 <img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="650">
 
@@ -169,7 +169,7 @@ This dashboard provides a detailed analysis of overall store traffic, customer d
 | **Target Customers Overview**    | Bar chart showing the total traffic, target traffic, and proportion of target customers, broken down by day and hour. This helps in understanding how well the store attracts its target demographic. |
 
 
-## Loyal Customer Segmentation and Traffic Analysis
+## 10. Loyal Customer Segmentation and Traffic Analysis
 
 <img src="res/retail_bi_crm/retail_bi_crm_loyal_customer.gif" alt="" width="650">
 
@@ -186,7 +186,7 @@ This dashboard is designed for retail store managers to analyze customer segment
 | **Group Scatter Overview**      | Scatter plot showing the relationship between visit frequency (F) and recency (R) for loyal customers, indicating patterns in customer behavior. |
 
 
-## Promising Customer Segmentation and Traffic Analysis
+## 11. Promising Customer Segmentation and Traffic Analysis
 
 <img src="res/retail_bi_crm/retail_bi_crm_promising_customer.gif" alt="" width="650">
 
@@ -203,7 +203,7 @@ This dashboard is designed for retail store managers to analyze customer segment
 | **Group Scatter Overview**      | Scatter plot showing the relationship between visit frequency (F) and recency (R) for promising customers, indicating patterns in customer behavior. |
 
 
-## At-Risk and Lost Customer Segmentation and Traffic Analysis
+## 12. At-Risk and Lost Customer Segmentation and Traffic Analysis
 
 <img src="res/retail_bi_crm/retail_bi_crm_lost_customer.gif" alt="" width="650">
 

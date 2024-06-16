@@ -5,7 +5,7 @@
 ## 簡介
 零售店經理需要全面且可操作的見解來優化店鋪表現，提升客戶體驗並增加銷售量。本文件展示了一系列儀表板，對零售運營的各個方面進行了詳細分析，包括收銀台表現、交易和收入分析、店內展示效率、路線交通和客戶行為。此外，它還深入研究了客戶細分，重點關注忠實客戶、有潛力的客戶、風險客戶和流失客戶。通過利用這些儀表板，經理們可以做出數據驅動的決策，以改善店鋪佈局、針對性行銷和保持有價值的客戶。
 
-## 流量和轉換追踪
+## 1. 流量和轉換追踪
 
 <img src="res/retail_bi_dashboard/retail_bi_dashboard.gif" alt="" width="650">
 
@@ -27,7 +27,7 @@
 | **3D Store Layout Visualization** | 提供店鋪佈局的可視化表示，突顯關注區域。                             |
 
 
-## 收銀台表現分析
+## 2. 收銀台表現分析
 
 <img src="res/retail_bi_dashboard/retail_bi_dashboard_checkout.gif" alt="Checkout Counter Performance Analysis" width="650">
 
@@ -44,7 +44,7 @@
 | **Checkout Counter Warning Times** | 熱圖顯示每個收銀台每小時的警告次數，提供擁擠高峰時間的詳細視圖。 |
 
 
-## 交易和收入分析
+## 3. 交易和收入分析
 
 <img src="res/retail_bi_dashboard/retail_bi_dashboard_transaction.gif" alt="Transaction and Revenue Analysis" width="650">
 
@@ -60,7 +60,7 @@
 | **Revenue**                  | 條形圖和折線圖描述了指定期間內的交易數量和總收入。突顯每日和每週的銷售表現趨勢。 |
 
 
-## 店內展示和流量分析
+## 4. 店內展示和流量分析
 
 <img src="res/retail_bi_scene/retail_bi_scene_shelf_dwell.gif" alt="" width="650">
 
@@ -78,7 +78,7 @@
 | **Display Efficiency**       | 條形圖和折線圖說明了展示在停留流量和每人平均停留時間方面的效率，按天和小時細分。 |
 
 
-## 路線交通和客戶行為分析
+## 5. 路線交通和客戶行為分析
 
 <img src="res/retail_bi_scene/retail_bi_scene_route.gif" alt="" width="650">
 
@@ -95,7 +95,7 @@
 | **Gender Traffic**           | 圓餅圖和折線圖顯示了流量的性別分佈（男性和女性）及流量隨時間變化的趨勢，突顯每個性別的高峰時間。 |
 
 
-## 櫥窗展示流量和效率分析
+## 6. 櫥窗展示流量和效率分析
 
 <img src="res/retail_bi_scene/retail_bi_scene_storefront.gif" alt="" width="650">
 
@@ -114,7 +114,7 @@
 | **Window Display Overview**     | 條形圖和折線圖顯示了詳細的停留流量和每人平均停留時間指標，按天和小時細分。 |
 
 
-## 樓層流量和人口統計分析
+## 7. 樓層流量和人口統計分析
 
 <img src="res/retail_bi_traffic/retail_bi_traffic_floor.gif" alt="" width="650">
 
@@ -134,7 +134,7 @@
 | **NES Customer Traffic**         | 圓餅圖和條形圖顯示了新客戶、現有客戶和睡眠（不活躍）客戶的分佈，提供客戶保留和參與的見解。 |
 
 
-## 全店流量和客戶分析
+## 8. 全店流量和客戶分析
 
 <img src="res/retail_bi_traffic/retail_bi_traffic_counter_whole_store.gif" alt="" width="650">
 
@@ -152,7 +152,7 @@
 | **Target Customers Overview**    | 條形圖顯示了總流量、目標流量及目標客戶在總店鋪流量中的比例，按天和小時細分。幫助了解店鋪吸引目標客群的效果。 |
 
 
-## 全面店鋪流量和客戶人口統計
+## 9. 全面店鋪流量和客戶人口統計
 
 <img src="res/retail_bi_traffic/retail_bi_traffic_counter_region.gif" alt="" width="650">
 
@@ -170,7 +170,7 @@
 | **Target Customers Overview**    | 條形圖顯示了總流量、目標流量及目標客戶在總店鋪流量中的比例，按天和小時細分。幫助了解店鋪吸引目標客群的效果。 |
 
 
-## 忠實客戶細分和流量分析
+## 10. 忠實客戶細分和流量分析
 
 <img src="res/retail_bi_crm/retail_bi_crm_loyal_customer.gif" alt="" width="650">
 
@@ -187,7 +187,7 @@
 | **Group Scatter Overview**      | 散點圖展示了忠實客戶的訪問頻率（F）和回訪率（R）之間的關係，指示客戶行為模式。 |
 
 
-## 有潛力客戶細分和流量分析
+## 11. 有潛力客戶細分和流量分析
 
 <img src="res/retail_bi_crm/retail_bi_crm_promising_customer.gif" alt="" width="650">
 
@@ -206,7 +206,7 @@
 | **Group Scatter Overview**      | 散點圖展示了有潛力客戶的訪問頻率（F）和回訪率（R）之間的關係，指示客戶行為模式。 |
 
 
-## 風險客戶和流失客戶細分和流量分析
+## 12. 風險客戶和流失客戶細分和流量分析
 
 <img src="res/retail_bi_crm/retail_bi_crm_lost_customer.gif" alt="" width="650">
 
