@@ -1,9 +1,6 @@
 # Performance Insights: Video Analysis, Indexing, and Recording
 
 ## Introduction
-
-## Introduction
-
 In modern security surveillance systems, video analysis and recording are two crucial functions. These functions need to be performed simultaneously and in real-time, processing streams from multiple cameras. Thus, designing efficient application software to achieve this task becomes particularly important. This article will explore in detail how to optimize and enhance the performance of AI-driven video and image analysis systems under different GPU configurations.
 
 In particular, efficient inference servers and efficient streaming servers play key roles in this process:
