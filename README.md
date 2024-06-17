@@ -49,8 +49,8 @@ AIMS is designed to enhance the efficiency and effectiveness of security operati
 
 ## [Exploring the High Precision of AIMS Image Analysis](aims_solution/high_precision_video_analysis_enus.md)
 
-<img src="aims_solution/res/ai_accuracy_intro_01.jpg" alt="" width="390">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/ai_accuracy_intro_03.jpg" alt="" width="390">
+<img src="aims_solution/res/ai_accuracy_weathre.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
+<img src="aims_solution/res/ai_accuracy_night_time.gif" alt="" width="390">
 
 AI NVR allows users to quickly and easily manage security systems in various environmental conditions, including indoor, outdoor, daytime, nighttime, and all seasons.
 - Even under extreme weather conditions, such as strong sunlight, rainy days, typhoons, or snow, or when objects move at different speeds simultaneously (e.g., fast-moving vehicles and bicycles, as well as slower-moving bodies or faces), AI NVR can still provide the best image analysis results.

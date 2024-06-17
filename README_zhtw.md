@@ -48,8 +48,8 @@ AIMS（智能監控系統）專為提升安防操作的效率和效果而設計�
 
 ## [AIMS 影像分析的高精準度探索](aims_solution/high_precision_video_analysis_zhtw.md)
 
-<img src="aims_solution/res/ai_accuracy_intro_01.jpg" alt="" width="390">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/ai_accuracy_intro_03.jpg" alt="" width="390">
+<img src="aims_solution/res/ai_accuracy_weathre.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
+<img src="aims_solution/res/ai_accuracy_night_time.gif" alt="" width="390">
 
 AI NVR使用戶能夠快速、輕鬆地實現室內、室外、日間、夜間、四季等各種環境條件下的安防系統管理。
 - 即使在極端天氣條件下，如強烈陽光、下雨天、颱風或下雪，或是物體同時以不同速度移動時（如同時有快速移動的汽機車及腳踏車，以及移動較慢的人體或人臉）， AI NVR 都仍可以為用戶提供最佳的影像分析結果。
