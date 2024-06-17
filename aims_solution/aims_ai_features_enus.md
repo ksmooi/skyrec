@@ -1,6 +1,6 @@
 [ English ] [ [繁體中文](aims_ai_features_zhtw.md) ]
 
-# Advanced Video Management with AIMS
+# AIMS: The Cutting-Edge AI Solution for Video Surveillance
 
 ## Introduction
 AI is often considered an expensive investment for video security management, with users typically required to pay for each AI analytics function or incur additional costs for upgrades. However, with AiMS, users only need to pay a subscription license fee, gaining access to all AI analysis functions with free upgrades throughout the year. 
