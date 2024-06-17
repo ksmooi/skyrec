@@ -50,7 +50,7 @@ This guide will explain the main components of AIMS and show how each feature co
 
 <img src="res/homepage/homepage_search.gif" alt="Site Management" width="650"><br/>
 
-### Purpose and Usage
+### Features
 Site Management simplifies the process of monitoring multiple NVR devices and cameras by allowing users to connect all devices with a single account. This feature provides an overview of site information, including geographic details, contact information, and camera cache photos, ensuring efficient site monitoring and management. Users can quickly check the status of each site and identify any connection issues with status filters.
 
 
@@ -68,7 +68,7 @@ Site Management simplifies the process of monitoring multiple NVR devices and ca
 
 <img src="res/app_menu/app_menu_03.gif" alt="Application Menu" width="650"><br/>
 
-### Purpose and Usage
+### Features
 The Application Menu offers an intuitive interface that categorizes all applications into common, AI analysis, BI reports, VMS, and settings. This organization helps users quickly find the applications they need. The menu is designed for ease of use, allowing even beginners to navigate effortlessly. Frequently used applications can be pinned for quick access, enhancing user efficiency.
 
 
@@ -94,7 +94,7 @@ The Application Menu offers an intuitive interface that categorizes all applicat
 
 <img src="res/video_focus/video_focus_ptz_control.gif" alt="Video Focus" width="650">
 
-### Purpose and Usage
+### Features
 
 Video Focus provides advanced tools for video manipulation, enabling users to efficiently find and manage video clips. It features timeline operations for easy viewing, intelligent statistical charts for event analysis, and PTZ camera controls for comprehensive video management. The interface allows users to change video layouts on the fly, ensuring a user-friendly experience.
 
@@ -121,7 +121,7 @@ Video Focus provides advanced tools for video manipulation, enabling users to ef
 
 <img src="res/map_book/mapbook_zoom_view.gif" alt="Mapbook" width="650"><br/>
 
-### Purpose and Usage
+### Features
 Mapbook integrates map information, camera positions, and analytics for precise monitoring of viewing areas. With an intuitive UI design, users can zoom, move the map, and switch between GIS information seamlessly. Mapbook combines indoor and outdoor map data, offering a comprehensive viewing experience that is easy to use and requires no learning curve.
 
 
@@ -143,7 +143,7 @@ Mapbook integrates map information, camera positions, and analytics for precise 
 
 <img src="res/bookmark/bookmark_item_comment.gif" alt="Bookmark" width="650"><br/>
 
-### Purpose and Usage
+### Features
 Bookmark simplifies the process of marking and searching for key video segments. Users can tag detected objects or record video times for further review. This function makes it easy to track and document important events, reducing the time and effort required for security operators to find and analyze critical footage.
 
 
