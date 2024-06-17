@@ -6,6 +6,7 @@
 
 這些解決方案的背後，蘊含著高深的技術內涵，包括演算法優化、MLOps 自動化、高性能 AI 推理伺服器設計、雲端架構設計、分散系統架構設計，以及訂閱系統設計等。每一個技術環節，都是我們團隊共同努力的成果，充分展現了我們在 AI 領域的專業素養與創新能力。
 
+<br/>
 
 ## [AIMS：尖端 AI 監控解決方案](aims_solution/aims_ai_features_zhtw.md)
 
@@ -20,7 +21,7 @@ AIMS 是最具吸引力的 AI NVR，具備極其完備的功能，可滿足各�
 AIMS 利用現有監控設備來快速分析包含人、頭部、臉部、車輛、機車及腳踏車等目標物，實現高效率的特定檢索，並大幅節省人力。
 
 [ [Read More](aims_solution/aims_ai_features_enus.md) ] [ [閱讀更多](aims_solution/aims_ai_features_zhtw.md) ]
-
+<br/>
 
 ## [以數據為導向的零售管理：關鍵指標和策略](aims_solution/aims_bi_reports_zhtw.md)
 
@@ -32,6 +33,7 @@ AIMS 從安防錄影中提取有意義的內容，並以直觀的設計將其轉
 透過 AIMS，無論是決策者、數據分析師、營運主管、銷售人員還是行銷經理，都能輕鬆地獲得新見解，用數據驅動行銷戰略以優化營運。
 
 [ [Read More](aims_solution/aims_bi_reports_enus.md) ] [ [閱讀更多](aims_solution/aims_bi_reports_zhtw.md) ]
+<br/>
 
 
 ## [智能監控：深入了解 AIMS 的功能](aims_solution/aims_vms_features_zhtw.md)
@@ -42,6 +44,7 @@ AIMS 從安防錄影中提取有意義的內容，並以直觀的設計將其轉
 AIMS（智能監控系統）專為提升安防操作的效率和效果而設計。它整合了多種先進工具和功能，幫助無縫管理 NVR 設備、攝像機和視頻片段。AIMS 具備強大的站點管理功能，可以同時監控超過 350 個站點，每個站點最多可管理 800 支攝像機。系統採用分散式架構設計，確保中控室能即時掌握所有站點的連線狀態，並支援 P2P 和 NAT 連線方式，確保安全且具成本效益。AIMS 提供直觀的應用程序菜單，方便用戶快速找到並利用所需應用；先進的視頻聚焦功能，支持實時視頻佈局設計和操作；地圖書功能，整合地理信息與攝像機位置，提供精確監控；以及書籤功能，簡化了標記和搜索關鍵視頻片段的過程。AIMS 的這些特性旨在提供一個更用戶友好且強大的監控體驗。
 
 [ [Read More](aims_solution/aims_vms_features_enus.md) ] [ [閱讀更多](aims_solution/aims_vms_features_zhtw.md) ]
+<br/>
 
 
 ## [AIMS 影像分析的高精準度探索](aims_solution/high_precision_video_analysis_zhtw.md)
@@ -58,6 +61,7 @@ AI NVR使用戶能夠快速、輕鬆地實現室內、室外、日間、夜間�
 - 各種移動速度
 
 [ [Read More](aims_solution/high_precision_video_analysis_enus.md) ] [ [閱讀更多](aims_solution/high_precision_video_analysis_zhtw.md) ]
+<br/>
 
 
 ## [性能洞察：影像分析、索引和錄製](aims_solution/performance_insights_zhtw.md)
@@ -69,6 +73,7 @@ AIMS 擁有自我學習能力，省去繁雜步驟，簡易設定即可進行精
 只需框選感興趣的區域，選擇目標對象條件，AIMS 便會自動完成其他設定工作。隨著使用時間增加，AIMS 的影像分析準確度將不斷提高，讓安防系統的管理變得更加輕鬆。
 
 [ [Read More](aims_solution/performance_insights_enus.md) ] [ [閱讀更多](aims_solution/performance_insights_zhtw.md) ]
+<br/>
 
 
 ## [SkyREC MSP：訂閱模式與跨境電商的結合](saas_solution/saas_msp_features_zhtw.md)
@@ -79,4 +84,5 @@ AIMS 擁有自我學習能力，省去繁雜步驟，簡易設定即可進行精
 SkyREC MSP (MemberShip Platform) 是一個結合訂閱模式與跨境電商的強大平台，專為全球企業提供先進的 AI 軟體服務。它擁有靈活多樣的 AIMS 軟體訂閱功能，提供月訂閱和年訂閱選項，並配有詳細的使用指南和設置指南，幫助用戶快速上手。作為跨境銷售平台，SkyREC MSP 提供多種規格與等級的 AI 伺服器和 IP 攝像頭，涵蓋不同應用場景，並提供詳細的技術資料。該平台支持全球物流配送和多種支付方式（如 T/T 和信用卡），確保購買過程便利且安全。此外，SkyREC MSP 擁有強大的專案分析與規劃工具，能根據具體需求推薦最合適的產品並計算總成本。其 Knowledge Base 提供全面的技術文件和使用者指南，保障用戶在使用過程中得到充分的支持，成為企業提升競爭力和運營效率的理想選擇。
 
 [ [Read More](saas_platform/saas_msp_features_enus.md) ] [ [閱讀更多](saas_platform/saas_msp_features_zhtw.md) ]
+<br/>
 
