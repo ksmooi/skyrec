@@ -10,7 +10,6 @@ Behind these solutions lies a deep technological content, including algorithm op
 ## [AIMS: Cutting-Edge AI Monitoring Solution](aims_solution/aims_ai_features_enus.md)
 
 <img src="aims_solution/res/live_focus/live_focus_02.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/object_search/object_search_face.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/object_search/object_search_vehicle.gif" alt="" width="350">
 
 AIMS is the most attractive AI NVR, with extremely comprehensive features to meet the needs of projects of all sizes. AIMS combines AI, BI, VMS, and NVR perfectly to enhance security management efficiency. The new generation AI NVR constitutes a super-smart solution through the following features:
@@ -26,8 +25,7 @@ AIMS utilizes existing surveillance equipment to quickly analyze targets such as
 ## [Data-Driven Retail Management: Key Metrics and Strategies](aims_solution/aims_bi_reports_enus.md)
 
 <img src="aims_solution/res/retail_bi_traffic/retail_bi_traffic_floor.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/retail_bi_scene/retail_bi_scene_route.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/retail_bi_dashboard/retail_bi_dashboard.gif" alt="" width="350">
+<img src="aims_solution/res/retail_bi_scene/retail_bi_scene_route.gif" alt="" width="350">
 
 We believe that data speaks, and data collected directly from actual surveillance footage can quickly and easily solve problems for all industries facing different challenges.
 AIMS extracts meaningful content from security footage and transforms it into easily interpretable charts with intuitive design, offering more than 20 types of data reports to meet the needs of users across various industries.
@@ -39,8 +37,7 @@ Through AIMS, decision-makers, data analysts, operations managers, sales personn
 ## [Smart Monitoring: In-Depth Understanding of AIMS Features](aims_solution/aims_vms_features_enus.md)
 
 <img src="aims_solution/res/video_focus/video_focus_create_layout.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/map_book/mapbook_ai_statistic.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/video_focus/video_focus_thumbnail.gif" alt="" width="350">
+<img src="aims_solution/res/map_book/mapbook_ai_statistic.gif" alt="" width="350">
 
 AIMS (Smart Monitoring System) is designed to enhance the efficiency and effectiveness of security operations. It integrates various advanced tools and features to help seamlessly manage NVR equipment, cameras, and video clips. AIMS boasts powerful site management capabilities, allowing for the simultaneous monitoring of over 350 sites, each managing up to 800 cameras. The system employs a distributed architecture design, ensuring that the control room can monitor the connection status of all sites in real-time, and supports P2P and NAT connection methods for secure and cost-effective operations. AIMS offers an intuitive application menu, allowing users to quickly find and utilize the applications they need; advanced video focus features that support real-time video layout design and operations; a map book feature that integrates geographic information with camera locations for precise monitoring; and a bookmark feature that simplifies the marking and searching of key video clips. These features of AIMS are designed to provide a more user-friendly and powerful monitoring experience.
 
@@ -50,7 +47,6 @@ AIMS (Smart Monitoring System) is designed to enhance the efficiency and effecti
 ## [Exploring the High Precision of AIMS Image Analysis](aims_solution/high_precision_video_analysis_enus.md)
 
 <img src="aims_solution/res/ai_accuracy_intro_01.jpg" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/ai_accuracy_intro_02.jpg" alt="" width="350">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/ai_accuracy_intro_03.jpg" alt="" width="350">
 
 AI NVR allows users to quickly and easily manage security systems in various environmental conditions, including indoor, outdoor, daytime, nighttime, and all seasons.
@@ -67,7 +63,6 @@ AI NVR allows users to quickly and easily manage security systems in various env
 ## [Performance Insights: Image Analysis, Indexing, and Recording](aims_solution/performance_insights_enus.md)
 
 <img src="aims_solution/res/ai_face_perf_intro.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="aims_solution/res/object_search/object_search_face.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/reko_apparel/reko_apparel_color.gif" alt="" width="350">
 
 AIMS has self-learning capabilities, eliminating complex steps and enabling precise analysis with simple settings. Artificial intelligence endows AIMS with excellent image analysis capabilities, allowing the system to think, learn, and self-optimize.
@@ -79,7 +74,6 @@ Simply frame the area of interest and select target object conditions, and AIMS 
 ## [SkyREC MSP: Combining Subscription Model with Cross-Border E-Commerce](saas_solution/saas_msp_features_enus.md)
 
 <img src="saas_platform/res/msp/product_aims.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
-<img src="saas_platform/res/msp/knowledge_pm_guide.gif" alt="" width="350">&nbsp;&nbsp;&nbsp;
 <img src="saas_platform/res/msp/project_eval_storage.gif" alt="" width="350">
 
 SkyREC MSP (MemberShip Platform) is a powerful platform that combines the subscription model with cross-border e-commerce, providing advanced AI software services to global enterprises. It features flexible AIMS software subscription functions, offering monthly and annual subscription options, and includes detailed user guides and setup guides to help users get started quickly. As a cross-border sales platform, SkyREC MSP offers various specifications and levels of AI servers and IP cameras, covering different application scenarios and providing detailed technical information. The platform supports global logistics and multiple payment methods (such as T/T and credit cards), ensuring a convenient and secure purchase process. Additionally, SkyREC MSP has powerful project analysis and planning tools that recommend the most suitable products based on specific needs and calculate the total cost. Its Knowledge Base provides comprehensive technical documents and user guides, ensuring users receive adequate support throughout their usage, making it an ideal choice for enterprises to enhance their competitiveness and operational efficiency.
