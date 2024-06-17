@@ -60,13 +60,13 @@ These features ensure a user-friendly and powerful monitoring experience.
 <img src="aims_solution/res/ai_accuracy_weathre.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/ai_accuracy_night_time.gif" alt="" width="390">
 
-AI NVR allows users to quickly and easily manage security systems in various environmental conditions, including indoor, outdoor, daytime, nighttime, and all seasons.
-- Even under extreme weather conditions, such as strong sunlight, rainy days, typhoons, or snow, or when objects move at different speeds simultaneously (e.g., fast-moving vehicles and bicycles, as well as slower-moving bodies or faces), AI NVR can still provide the best image analysis results.
+Even under extreme weather conditions, such as strong sunlight, rainy days, typhoons, or snow, AI NVR can still provide the best image analysis results. It can also handle scenarios where objects move at different speeds simultaneously, like fast-moving vehicles and bicycles alongside slower-moving bodies or faces.
+
+AIMS allows users to quickly and easily manage security systems in various environmental conditions, including:
 - Indoor and outdoor
-- Day and night
-- Suitable for all seasons
-- Different weather types
-- Various moving speeds
+- Daytime and nighttime
+- All seasons
+
 
 [ [Read More](aims_solution/high_precision_video_analysis_enus.md) ] [ [閱讀更多](aims_solution/high_precision_video_analysis_zhtw.md) ]
 <br/><br/>

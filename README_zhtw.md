@@ -59,13 +59,12 @@ AIMS 專為提升安防操作效率而設計，配備先進工具以管理 NVR �
 <img src="aims_solution/res/ai_accuracy_weathre.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/ai_accuracy_night_time.gif" alt="" width="390">
 
-AI NVR使用戶能夠快速、輕鬆地實現室內、室外、日間、夜間、四季等各種環境條件下的安防系統管理。
-- 即使在極端天氣條件下，如強烈陽光、下雨天、颱風或下雪，或是物體同時以不同速度移動時（如同時有快速移動的汽機車及腳踏車，以及移動較慢的人體或人臉）， AI NVR 都仍可以為用戶提供最佳的影像分析結果。
+即使在極端天氣條件下，如強烈陽光、雨天、颱風或下雪，AI NVR 仍能提供最佳的影像分析結果。它還能處理物體以不同速度同時移動的情況，如快速移動的車輛和自行車，以及移動較慢的人體或人臉。
+
+AIMS 允許用戶在各種環境條件下快速且輕鬆地管理安防系統，包括：
 - 室內和室外
-- 白天和黑夜
+- 白天和夜間
 - 四季皆宜
-- 不同類型的天氣
-- 各種移動速度
 
 [ [Read More](aims_solution/high_precision_video_analysis_enus.md) ] [ [閱讀更多](aims_solution/high_precision_video_analysis_zhtw.md) ]
 <br/><br/>
