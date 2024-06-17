@@ -41,7 +41,15 @@ Through AIMS, decision-makers, data analysts, operations managers, sales personn
 <img src="aims_solution/res/video_focus/video_focus_create_layout.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/map_book/mapbook_ai_statistic.gif" alt="" width="390">
 
-AIMS is designed to enhance the efficiency and effectiveness of security operations. It integrates various advanced tools and features to help seamlessly manage NVR equipment, cameras, and video clips. AIMS boasts powerful site management capabilities, allowing for the simultaneous monitoring of over 350 sites, each managing up to 800 cameras. The system employs a distributed architecture design, ensuring that the control room can monitor the connection status of all sites in real-time, and supports P2P and NAT connection methods for secure and cost-effective operations. AIMS offers an intuitive application menu, allowing users to quickly find and utilize the applications they need; advanced video focus features that support real-time video layout design and operations; a map book feature that integrates geographic information with camera locations for precise monitoring; and a bookmark feature that simplifies the marking and searching of key video clips. These features of AIMS are designed to provide a more user-friendly and powerful monitoring experience.
+AIMS is designed to enhance security operations with advanced tools for managing NVR equipment, cameras, and video clips. It can monitor over 350 sites simultaneously, each with up to 800 cameras, using a distributed architecture for real-time status monitoring and supports P2P and NAT connections for secure operations.
+
+Key features include:
+- Intuitive application menu for easy access
+- Advanced video focus for real-time layout design
+- Map book integrating geographic info with camera locations
+- Bookmark feature for easy marking and searching of video clips
+
+These features ensure a user-friendly and powerful monitoring experience.
 
 [ [Read More](aims_solution/aims_vms_features_enus.md) ] [ [閱讀更多](aims_solution/aims_vms_features_zhtw.md) ]
 <br/><br/>
@@ -81,7 +89,11 @@ Simply frame the area of interest and select target object conditions, and AIMS 
 <img src="saas_platform/res/msp/product_aims.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="saas_platform/res/msp/project_eval_storage.gif" alt="" width="390">
 
-SkyREC MSP (MemberShip Platform) is a powerful platform that combines the subscription model with cross-border e-commerce, providing advanced AI software services to global enterprises. It features flexible AIMS software subscription functions, offering monthly and annual subscription options, and includes detailed user guides and setup guides to help users get started quickly. As a cross-border sales platform, SkyREC MSP offers various specifications and levels of AI servers and IP cameras, covering different application scenarios and providing detailed technical information. The platform supports global logistics and multiple payment methods (such as T/T and credit cards), ensuring a convenient and secure purchase process. Additionally, SkyREC MSP has powerful project analysis and planning tools that recommend the most suitable products based on specific needs and calculate the total cost. Its Knowledge Base provides comprehensive technical documents and user guides, ensuring users receive adequate support throughout their usage, making it an ideal choice for enterprises to enhance their competitiveness and operational efficiency.
+SkyREC MSP (MemberShip Platform) is a robust platform combining subscription models with cross-border e-commerce, delivering advanced AI software services to global enterprises. It offers flexible AIMS software subscriptions, available monthly and annually, with detailed user and setup guides for easy onboarding.
+
+As a cross-border sales platform, SkyREC MSP provides various AI servers and IP cameras to meet different application needs, supported by comprehensive technical information. The platform ensures a seamless purchase process with global logistics and multiple payment options (T/T and credit cards).
+
+SkyREC MSP also features powerful project analysis and planning tools to recommend suitable products and calculate total costs. Its extensive Knowledge Base offers technical documents and user guides, making it an ideal choice for enterprises aiming to enhance their competitiveness and operational efficiency.
 
 [ [Read More](saas_platform/saas_msp_features_enus.md) ] [ [閱讀更多](saas_platform/saas_msp_features_zhtw.md) ]
 <br/><br/>
