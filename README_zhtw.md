@@ -85,3 +85,8 @@ SkyREC MSP (MemberShip Platform) 是一個結合訂閱模式與跨境電商的�
 [ [Read More](saas_platform/saas_msp_features_enus.md) ] [ [閱讀更多](saas_platform/saas_msp_features_zhtw.md) ]
 <br/><br/>
 
+
+## Reference
+- [影像分析精準度](https://www.youtube.com/playlist?list=PLDpP3n1xoc2UpObNph8IKumyIeHBzPPXV)
+- [AI 影像監控產品特色](https://www.youtube.com/playlist?list=PLDpP3n1xoc2WIwvWOuuh8AkBptcKAFMQP)
+- [AIMS 即時監控功能](https://www.youtube.com/playlist?list=PLDpP3n1xoc2W3T8XOP0Szit_l8iAjDA5X)
