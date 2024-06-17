@@ -38,6 +38,8 @@ This guide will explain the main components of AIMS and show how each feature co
 
 ## Site Management
 
+### Demos
+
 **AIMS can manage over 350 sites simultaneously (monitoring connection status of all sites in real-time)**
 
 <img src="res/homepage/homepage_pages.gif" alt="Site Management" width="650"><br/>
@@ -56,6 +58,8 @@ Site Management simplifies the process of monitoring multiple NVR devices and ca
 
 ## Application Menu
 
+### Demos
+
 **Provides five classification methods to manage over 40 application functions**
 
 <img src="res/app_menu/app_menu_01.gif" alt="Application Menu" width="650"><br/>
@@ -73,6 +77,8 @@ The Application Menu offers an intuitive interface that categorizes all applicat
 
 
 ## Video Focus
+
+### Demos
 
 **Easy and real-time design of video layouts with intuitive operation**
 
@@ -101,6 +107,8 @@ Video Focus provides advanced tools for video manipulation, enabling users to ef
 
 ## Mapbook
 
+### Demos
+
 **Monitor all camera images and object detection using geographic location**
 
 <img src="res/map_book/mapbook_show_camera.gif" alt="Mapbook" width="650"><br/>
@@ -126,6 +134,8 @@ Mapbook integrates map information, camera positions, and analytics for precise 
 
 
 ## Bookmark
+
+### Demos
 
 **Bookmark management that supports multiple object detection**
 

@@ -48,6 +48,8 @@ AIMS 有幾個關鍵功能：
 
 ## Site Management
 
+### 功能演示
+
 **AIMS 能同時管理超過 350 個站點 (即時掌握所有站點的連線狀態)**
 
 <img src="res/homepage/homepage_pages.gif" alt="Site Management" width="650"><br/>
@@ -65,6 +67,8 @@ AIMS 有幾個關鍵功能：
 
 ## Application Menu
 
+### 功能演示
+
 **提供五種分類方式來管理超過 40 種應用功能**
 
 <img src="res/app_menu/app_menu_01.gif" alt="Application Menu" width="650"><br/>
@@ -81,6 +85,8 @@ AIMS 有幾個關鍵功能：
 應用程序菜單提供了一個直觀的界面，將所有應用分為常用、AI 分析、BI 報告、VMS 和設置五大類。這種組織方式幫助用戶快速找到所需的應用。菜單設計簡單易用，讓初學者也能輕鬆導航。常用應用可以固定以便快速訪問，提高用戶效率。
 
 ## Video Focus
+
+### 功能演示
 
 **能輕鬆且即時設計視頻佈局，操作方式直觀**
 
@@ -107,6 +113,8 @@ AIMS 有幾個關鍵功能：
 
 ## MapBook
 
+### 功能演示
+
 **可以用地理位置監控所有攝影機的影像和物件偵測**
 
 <img src="res/map_book/mapbook_show_camera.gif" alt="Mapbook" width="650"><br/>
@@ -132,6 +140,8 @@ AIMS 有幾個關鍵功能：
 
 
 ## Bookmark
+
+### 功能演示
 
 **支持多重物件偵測的書籤管理**
 
