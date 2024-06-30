@@ -69,7 +69,11 @@ Object Playback enables users to extract key video segments based on detected ob
 
 <img src="res/object_search/object_search_person.gif" alt="Person Searching" width="650"><br/>
 
-**Search for objects belonging to vehicles****Search for similar objects based on gender**
+**Search for objects belonging to vehicles**
+
+<img src="res/object_search/object_search_vehicle.gif" alt="Vehicle Searching" width="650"><br/>
+
+**Search for similar objects based on gender**
 
 <img src="res/reko_facial/reko_face_gender.gif" alt="" width="650"><br/>
 
