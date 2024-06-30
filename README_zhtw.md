@@ -82,7 +82,7 @@ AIMS 擁有自我學習能力，省去繁雜步驟，簡易設定即可進行精
 <br/><br/>
 
 
-## [SkyREC MSP：訂閱模式與跨境電商的結合](saas_solution/saas_msp_features_zhtw.md)
+## [SkyREC MSP：訂閱模式與跨境電商的結合](saas_platform/saas_msp_features_zhtw.md)
 
 <img src="saas_platform/res/msp/product_aims.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="saas_platform/res/msp/project_eval_storage.gif" alt="" width="390">

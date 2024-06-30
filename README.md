@@ -84,7 +84,7 @@ Simply frame the area of interest and select target object conditions, and AIMS 
 <br/><br/>
 
 
-## [SkyREC MSP: Combining Subscription Model with Cross-Border E-Commerce](saas_solution/saas_msp_features_enus.md)
+## [SkyREC MSP: Combining Subscription Model with Cross-Border E-Commerce](saas_platform/saas_msp_features_enus.md)
 
 <img src="saas_platform/res/msp/product_aims.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="saas_platform/res/msp/project_eval_storage.gif" alt="" width="390">
