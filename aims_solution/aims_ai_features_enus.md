@@ -73,6 +73,14 @@ Object Playback enables users to extract key video segments based on detected ob
 
 <img src="res/object_search/object_search_vehicle.gif" alt="Vehicle Searching" width="650"><br/>
 
+### Features
+Object Search allows users to quickly locate specific objects in the video stream by setting custom parameters such as time period, frame range and object type. This feature significantly improves the efficiency of video analysis, enabling targeted searches to easily find relevant footage without the need to manually scan large volumes of video recordings.
+
+
+## Face Recognition
+
+### Demos
+
 **Search for similar objects based on gender**
 
 <img src="res/reko_facial/reko_face_gender.gif" alt="" width="650"><br/>
