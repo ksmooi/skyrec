@@ -105,6 +105,10 @@ Facial Recognition allows users to quickly search for and identify individuals b
 
 ### Demos
 
+**Search for similar items based on clothing gender**
+
+<img src="res/reko_apparel/reko_apparel_multi_camera.gif" alt="" width="650"><br/>
+
 **Search for similar objects based on clothing color**
 
 <img src="res/reko_apparel/reko_apparel_color.gif" alt="" width="650"><br/>

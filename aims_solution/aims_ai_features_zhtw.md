@@ -105,6 +105,10 @@ AiMS 使使用者能夠利用多種視頻應用程序進行先進和全面的安
 
 ### 功能演示
 
+**以衣著性別來搜尋相似的物件**
+
+<img src="res/reko_apparel/reko_apparel_multi_camera.gif" alt="" width="650"><br/>
+
 **以衣著顏色來搜尋相似的物件**
 
 <img src="res/reko_apparel/reko_apparel_color.gif" alt="" width="650"><br/>
