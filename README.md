@@ -55,12 +55,12 @@ These features ensure a user-friendly and powerful monitoring experience.
 <br/><br/>
 
 
-## [Exploring the High Precision of AIMS Image Analysis](aims_solution/high_precision_video_analysis_enus.md)
+## [Exploring the High Precision of AIMS Video Analytic](aims_solution/high_precision_video_analysis_enus.md)
 
 <img src="aims_solution/res/ai_accuracy_weathre.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/ai_accuracy_night_time.gif" alt="" width="390">
 
-Even under extreme weather conditions, such as strong sunlight, rainy days, typhoons, or snow, AI NVR can still provide the best image analysis results. It can also handle scenarios where objects move at different speeds simultaneously, like fast-moving vehicles and bicycles alongside slower-moving bodies or faces.
+Even under extreme weather conditions, such as strong sunlight, rainy days, typhoons, or snow, AI NVR can still provide the best video analytic results. It can also handle scenarios where objects move at different speeds simultaneously, like fast-moving vehicles and bicycles alongside slower-moving bodies or faces.
 
 AIMS allows users to quickly and easily manage security systems in various environmental conditions, including:
 - Indoor and outdoor
@@ -72,7 +72,7 @@ AIMS allows users to quickly and easily manage security systems in various envir
 <br/><br/>
 
 
-## [Performance Insights: Image Analysis, Indexing, and Recording](aims_solution/performance_insights_enus.md)
+## [Performance Insights: Video Analytic, Indexing, and Recording](aims_solution/performance_insights_enus.md)
 
 <img src="aims_solution/res/ai_face_perf_intro.gif" alt="" width="390">&nbsp;&nbsp;&nbsp;
 <img src="aims_solution/res/reko_apparel/reko_apparel_color.gif" alt="" width="390">
