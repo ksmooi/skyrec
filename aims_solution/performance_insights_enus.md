@@ -25,18 +25,9 @@ This article provides detailed performance benchmarks of AI video and image anal
 
 ## Performance Benchmark on Dual GPU
 
-[![Performance Benchmark on Dual GPU](res/demo_video/dual_gpu_performance.jpg)](res/demo_video/dual_gpu_performance.mp4)
-
-11
-<video src="res/demo_video/dual_gpu_performance.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-22
-<video width="1280" height="720" controls autoplay muted loop>
-  <source src="res/demo_video/dual_gpu_performance.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<a href="https://drive.google.com/file/d/1R5leOoc1Uw7h-1-jX-eOb20zAbqWoADK/view" target="_blank">
+  <img src="res/demo_video/dual_gpu_performance.jpg" alt="Video Thumbnail">
+</a>
 
 The following tables provide a detailed performance benchmark for dual GPU setups used in Face Analysis and Person & Vehicle Analysis. Each table highlights the deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPU configurations. The data illustrates the significant performance improvements achieved with dual GPU configurations across different deployment scenarios such as edge devices, workstations, and data centers. These benchmarks are critical for understanding the capabilities of AI-driven video analysis systems in processing and analyzing high-resolution video streams efficiently.
 
@@ -77,7 +68,9 @@ The following tables provide a detailed performance benchmark for dual GPU setup
 
 ## Performance Benchmark on Single GPU
 
-[![Performance Benchmark on Single GPU](res/demo_video/single_gpu_performance.jpg)](res/demo_video/single_gpu_performance.mp4)
+<a href="https://drive.google.com/file/d/1eaW2P1T8BBx7KKKnVnzRx7gOGY_gksEs/view" target="_blank">
+  <img src="res/demo_video/single_gpu_performance.jpg" alt="Video Thumbnail">
+</a>
 
 The following tables provide a comprehensive performance benchmark for single GPU configurations used in Face Analysis and Person & Vehicle Analysis. The tables present key metrics including deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPUs. These benchmarks highlight the performance capabilities of different GPU models across various deployment scenarios such as edge devices, workstations, and data centers. The data demonstrates how each GPU configuration handles high-resolution video streams and complex AI processing tasks, providing critical insights for optimizing AI-driven video analysis systems.
 
@@ -97,7 +90,9 @@ The following tables provide a comprehensive performance benchmark for single GP
 
 ## 40 Cameras Recording
 
-[![40 cameras recording](res/demo_video/40_cameras_recording.jpg)](res/demo_video/40_cameras_recording.mp4)
+<a href="https://drive.google.com/file/d/1AjxQaXpM1w3QYK4VNPHLJF0smUfXIgp7/view" target="_blank">
+  <img src="res/demo_video/40_cameras_recording.jpg" alt="Video Thumbnail">
+</a>
 
 ### Recording Functions and Data Rate
 
@@ -127,7 +122,9 @@ The table provides the storage arrangement options, indicating how different HDD
 
 ## 24 Cameras Recording
 
-[![24 cameras recording](res/demo_video/24_cameras_recording.jpg)](res/demo_video/24_cameras_recording.mp4)
+<a href="https://drive.google.com/file/d/11X3EWktLBeNT0bkjrZes6SJxXjy1-rzu/view" target="_blank">
+  <img src="res/demo_video/24_cameras_recording.jpg" alt="Video Thumbnail">
+</a>
 
 ### Recording Functions and Data Rate
 
