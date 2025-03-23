@@ -27,6 +27,11 @@ This article provides detailed performance benchmarks of AI video and image anal
 
 [![Performance Benchmark on Dual GPU](res/demo_video/dual_gpu_performance.jpg)](res/demo_video/dual_gpu_performance.mp4)
 
+11
+<video src="res/demo_video/dual_gpu_performance.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+22
 <video width="1280" height="720" controls autoplay muted loop>
   <source src="res/demo_video/dual_gpu_performance.mp4" type="video/mp4">
   Your browser does not support the video tag.
