@@ -27,6 +27,8 @@ This article provides detailed performance benchmarks of AI video and image anal
 
 [![Performance Benchmark on Dual GPU](res/demo_video/dual_gpu_performance.jpg)](res/demo_video/dual_gpu_performance.mp4)
 
+<video src="res/demo_video/dual_gpu_performance.mp4" controls muted style="max-height:640px;"></video>
+
 The following tables provide a detailed performance benchmark for dual GPU setups used in Face Analysis and Person & Vehicle Analysis. Each table highlights the deployment environment, AI channels, analysis frame rates (FPS), NVDEC units, memory capacity, CUDA cores, and Tensor cores for various NVIDIA GPU configurations. The data illustrates the significant performance improvements achieved with dual GPU configurations across different deployment scenarios such as edge devices, workstations, and data centers. These benchmarks are critical for understanding the capabilities of AI-driven video analysis systems in processing and analyzing high-resolution video streams efficiently.
 
 ### Sub-functions of Various AI Analyses
