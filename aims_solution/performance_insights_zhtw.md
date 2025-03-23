@@ -25,7 +25,9 @@
 
 ## 雙 GPU 性能基準測試
 
-[![Performance Benchmark on Dual GPU](https://img.youtube.com/vi/sjCYWvHJ65c/0.jpg)](https://www.youtube.com/watch?v=sjCYWvHJ65c)
+<a href="https://drive.google.com/file/d/1R5leOoc1Uw7h-1-jX-eOb20zAbqWoADK/view" target="_blank">
+  <img src="res/demo_video/dual_gpu_performance.jpg" alt="Video Thumbnail">
+</a>
 
 下表提供了雙 GPU 配置下人臉分析和人物及車輛分析的詳細性能基準測試。每個表格突出顯示了不同 NVIDIA GPU 配置的部署環境、AI 通道、分析幀速率（FPS）、NVDEC 單元、內存容量、CUDA 核心和 Tensor 核心。數據展示了雙 GPU 配置在不同部署場景（如邊緣設備、工作站和數據中心）中所達到的顯著性能提升。這些基準測試對於理解 AI 驅動的視頻分析系統在處理和分析高分辨率視頻流方面的能力至關重要。
 
@@ -66,7 +68,9 @@
 
 ## 單 GPU 性能基準測試
 
-[![Performance Benchmark on Single GPU](https://img.youtube.com/vi/J13jzoFAXto/0.jpg)](https://www.youtube.com/watch?v=J13jzoFAXto)
+<a href="https://drive.google.com/file/d/1eaW2P1T8BBx7KKKnVnzRx7gOGY_gksEs/view" target="_blank">
+  <img src="res/demo_video/single_gpu_performance.jpg" alt="Video Thumbnail">
+</a>
 
 下表提供了單 GPU 配置下人臉分析和人物及車輛分析的綜合性能基準測試。這些表格展示了不同 NVIDIA GPU 在不同部署場景（如邊緣設備、工作站和數據中心）中的關鍵指標，包括部署環境、AI 通道、分析幀速率（FPS）、NVDEC 單元、內存容量、CUDA 核心和 Tensor 核心。這些基準測試突出了不同 GPU 型號的性能能力，展示了每種配置如何處理高分辨率視頻流和複雜的 AI 處理任務，為優化 AI 驅動的視頻分析系統提供了關鍵見解。
 
@@ -86,7 +90,9 @@
 
 ## 40 支攝像機錄製
 
-[![40 cameras recording](https://img.youtube.com/vi/X3ISQpXO0XU/0.jpg)](https://www.youtube.com/watch?v=X3ISQpXO0XU)
+<a href="https://drive.google.com/file/d/1AjxQaXpM1w3QYK4VNPHLJF0smUfXIgp7/view" target="_blank">
+  <img src="res/demo_video/40_cameras_recording.jpg" alt="Video Thumbnail">
+</a>
 
 ### 錄製功能和數據速率
 
@@ -117,7 +123,9 @@
 
 ## 24 支攝像機錄製
 
-[![24 cameras recording](https://img.youtube.com/vi/94v7AY0tyrA/0.jpg)](https://www.youtube.com/watch?v=94v7AY0tyrA)
+<a href="https://drive.google.com/file/d/11X3EWktLBeNT0bkjrZes6SJxXjy1-rzu/view" target="_blank">
+  <img src="res/demo_video/24_cameras_recording.jpg" alt="Video Thumbnail">
+</a>
 
 ### 錄製功能和數據速率
 
